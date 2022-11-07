@@ -1,5 +1,5 @@
+/* Importing the RSVP library. */
 var RSVP = require('rsvp');
-var Async = require("async");
 var Utility = require("../lib/Utility.js");
 var View = require("../views/View.js");
 
